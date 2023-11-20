@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hecatron.conn")(type "KiCad")(uri "D:/SourceCode/Public/Hecatron.Cad/Hecatron.Kicad.Libs/library/hecatron.conn.kicad_sym")(options "")(descr ""))
+  (lib (name "ProS3")(type "KiCad")(uri "D:/SourceCode/Public/Hecatron.Cad/Hecatron.Kicad.Libs/library/ProS3.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/SourceCode/Public/Hecatron.Cad/Hecatron.Kicad.Libs/library/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+)

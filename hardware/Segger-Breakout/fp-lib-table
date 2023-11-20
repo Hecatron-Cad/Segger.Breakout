@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hecatron.smd")(type "KiCad")(uri "D:/SourceCode/Public/Hecatron.Cad/Hecatron.Kicad.Libs/modules/hecatron.smd.pretty")(options "")(descr ""))
+)
